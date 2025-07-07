@@ -1,3 +1,3 @@
 # py-basics
-this is sample file on ver basic concepts of python 
+this is sample file on very basic concepts of python 
 pushed using gitbash
